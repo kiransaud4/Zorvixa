@@ -1,0 +1,14 @@
+.Our-team{
+    background: linear-gradient(rgb(95, 145, 199),rgba(255, 255, 255, 0.217)), url(https://demo.awaikenthemes.com/html-preview/zorvixa/html/images/subpage-hero-img.jpg);
+    height: 70vh;
+    background-size: cover;
+    position: relative;
+}
+.Our-team-title{
+    display: block;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    color: White;
+}

@@ -1,0 +1,53 @@
+.About-Us{
+    background: linear-gradient(rgb(95, 145, 199),rgba(255, 255, 255, 0.217)), url(https://demo.awaikenthemes.com/html-preview/zorvixa/html/images/subpage-hero-img.jpg);
+    height: 70vh;
+    background-size: cover;
+    position: relative;
+}
+.About-Us-content{
+    display: block;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    color: White;
+}
+.small-box{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(74, 74, 197);
+    position: absolute;
+    bottom: 20%;
+    left: 90%;
+}
+ .Award-winning-right> div{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color:var(--brand) ;
+    font-size: 12px;
+    text-align: center;
+  
+}
+.Our-approach{
+    background-color: var(--brand);
+}
+.Our-approach-tittle>span{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    background-color:#fff ;
+    font-size: 12px;
+    color: #5a9cde;
+
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    background-color: var(--brand);
+    border-radius: 50%;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+}

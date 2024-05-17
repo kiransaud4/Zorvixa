@@ -1,0 +1,42 @@
+.Service{
+    background: linear-gradient(rgba(35, 35, 39, 0.361),#00000060),url(https://demo.awaikenthemes.com/html-preview/zorvixa/html/images/service-hero.jpg);
+    height: 80vh;
+    background-size: cover;
+    position: relative;
+}
+.Services-content{
+    display: block;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    color: White;
+}
+.health-insurance-content .pp{
+    font-size: 11px;
+    color: gray;
+    
+}
+.health-insurance-content a{
+    text-decoration: none;
+   
+}
+.image > img{
+    transition: 0.9s;
+}
+.health-insurance:hover img{
+    transform: scale(1.2);
+
+}
+
+
+.health-insurance .small-box{
+    width: 80px;
+    height: 80px;
+    background-color:#0E8FFC;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%, -50%);
+}
